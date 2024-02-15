@@ -1,6 +1,11 @@
 <html>
+  <head> 
+  <title> Minha primeira pagina</title>  
+  </head>
 
   <body>
+    text="yellow"
+    background="hyperlink da foto"
   Olá Mundo!
   </body>
 </html> 
